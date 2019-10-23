@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ju151424\\Desktop\\WinFroms_ZorkBuilder\\WinForms_ZorkBuilder\\WinForm_ZB\\InventoryManager.Data\\InventoryManager.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ju151424\\Desktop\\Zork-WinForm-Tutorial\\WinForm_ZB\\InventoryManager.Data\\InventoryManager.Data.csproj",
       "projectName": "InventoryManager.Data",
-      "projectPath": "C:\\Users\\ju151424\\Desktop\\WinFroms_ZorkBuilder\\WinForms_ZorkBuilder\\WinForm_ZB\\InventoryManager.Data\\InventoryManager.Data.csproj",
+      "projectPath": "C:\\Users\\ju151424\\Desktop\\Zork-WinForm-Tutorial\\WinForm_ZB\\InventoryManager.Data\\InventoryManager.Data.csproj",
       "packagesPath": "C:\\Users\\ju151424\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ju151424\\Desktop\\WinFroms_ZorkBuilder\\WinForms_ZorkBuilder\\WinForm_ZB\\InventoryManager.Data\\obj\\",
+      "outputPath": "C:\\Users\\ju151424\\Desktop\\Zork-WinForm-Tutorial\\WinForm_ZB\\InventoryManager.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
