@@ -1,0 +1,4 @@
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csprojAssemblyReference.cache
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfoInputs.cache
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs

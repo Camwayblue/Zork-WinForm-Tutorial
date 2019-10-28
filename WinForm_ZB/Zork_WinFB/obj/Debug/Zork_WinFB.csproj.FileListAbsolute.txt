@@ -1,0 +1,5 @@
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.csprojAssemblyReference.cache
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.InventoryManager.resources
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.Properties.Resources.resources
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.csproj.GenerateResource.cache
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.csproj.CoreCompileInputs.cache
