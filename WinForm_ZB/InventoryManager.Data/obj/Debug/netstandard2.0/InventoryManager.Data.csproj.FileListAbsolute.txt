@@ -2,3 +2,8 @@ C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data
 C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.CoreCompileInputs.cache
 C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfoInputs.cache
 C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.deps.json
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.pdb

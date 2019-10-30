@@ -3,3 +3,14 @@ C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\
 C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.Properties.Resources.resources
 C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.csproj.GenerateResource.cache
 C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.csproj.CoreCompileInputs.cache
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\bin\Debug\Zork_WinFB.exe.config
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\bin\Debug\Zork_WinFB.exe
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\bin\Debug\Zork_WinFB.pdb
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\bin\Debug\InventoryManager.Data.dll
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\bin\Debug\InventoryManager.Data.pdb
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.csproj.CopyComplete
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.exe
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.pdb
+C:\Users\ju151424\Desktop\Zork-WinForm-Tutorial\WinForm_ZB\Zork_WinFB\obj\Debug\Zork_WinFB.csproj.Fody.CopyLocal.cache
